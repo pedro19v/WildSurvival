@@ -1,4 +1,4 @@
-# Micro Machines
+# Wild Survival
 
 ## About the project
 Project for Game Design course from MEIC @ IST 2020/2021, built with Unity
