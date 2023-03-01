@@ -1,0 +1,5060 @@
+fileFormatVersion: 2
+guid: 812e61843b8ea8148a76386755033a2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6899368003215935517
+    second: AnaGaitaWithSpear_0
+  - first:
+      213: 4892808691929019204
+    second: AnaGaitaWithSpear_1
+  - first:
+      213: -980522178322243195
+    second: AnaGaitaWithSpear_2
+  - first:
+      213: -8813399100881555147
+    second: AnaGaitaWithSpear_3
+  - first:
+      213: -622844817308599266
+    second: AnaGaitaWithSpear_4
+  - first:
+      213: 7121221809751562421
+    second: AnaGaitaWithSpear_5
+  - first:
+      213: 3364560807827898327
+    second: AnaGaitaWithSpear_6
+  - first:
+      213: -8104733101979996130
+    second: AnaGaitaWithSpear_7
+  - first:
+      213: -5385094922707653363
+    second: AnaGaitaWithSpear_8
+  - first:
+      213: -9154556241024860349
+    second: AnaGaitaWithSpear_9
+  - first:
+      213: -7322776420187952689
+    second: AnaGaitaWithSpear_10
+  - first:
+      213: -2656785165145787574
+    second: AnaGaitaWithSpear_11
+  - first:
+      213: 783855130551872237
+    second: AnaGaitaWithSpear_12
+  - first:
+      213: -5587518313418382036
+    second: AnaGaitaWithSpear_13
+  - first:
+      213: -3028313058808863408
+    second: AnaGaitaWithSpear_14
+  - first:
+      213: 6666844185373755519
+    second: AnaGaitaWithSpear_15
+  - first:
+      213: 4272408383143686578
+    second: AnaGaitaWithSpear_16
+  - first:
+      213: 3023004097889782321
+    second: AnaGaitaWithSpear_17
+  - first:
+      213: 3644380008714001203
+    second: AnaGaitaWithSpear_18
+  - first:
+      213: -5237987669554415836
+    second: AnaGaitaWithSpear_19
+  - first:
+      213: 2129160770399734243
+    second: AnaGaitaWithSpear_20
+  - first:
+      213: 7456069205969490184
+    second: AnaGaitaWithSpear_21
+  - first:
+      213: -1935670730583146800
+    second: AnaGaitaWithSpear_22
+  - first:
+      213: -3004973155157576793
+    second: AnaGaitaWithSpear_23
+  - first:
+      213: -6371515426994513332
+    second: AnaGaitaWithSpear_24
+  - first:
+      213: -4538692032175028528
+    second: AnaGaitaWithSpear_25
+  - first:
+      213: -5143467303515283601
+    second: AnaGaitaWithSpear_26
+  - first:
+      213: 6162108763281649501
+    second: AnaGaitaWithSpear_27
+  - first:
+      213: 6225373374057231678
+    second: AnaGaitaWithSpear_28
+  - first:
+      213: 5851957844708488999
+    second: AnaGaitaWithSpear_29
+  - first:
+      213: -9093696630939831666
+    second: AnaGaitaWithSpear_30
+  - first:
+      213: 336728793663669067
+    second: AnaGaitaWithSpear_31
+  - first:
+      213: 5400007850446773993
+    second: AnaGaitaWithSpear_32
+  - first:
+      213: -7032063206775205887
+    second: AnaGaitaWithSpear_33
+  - first:
+      213: -6185568524564298146
+    second: AnaGaitaWithSpear_34
+  - first:
+      213: 1870861775474513772
+    second: AnaGaitaWithSpear_35
+  - first:
+      213: 6965996825260857179
+    second: AnaGaitaWithSpear_36
+  - first:
+      213: -8079771604707922301
+    second: AnaGaitaWithSpear_37
+  - first:
+      213: 7506996512219604474
+    second: AnaGaitaWithSpear_38
+  - first:
+      213: -8193099308772626097
+    second: AnaGaitaWithSpear_39
+  - first:
+      213: 261884918109017454
+    second: AnaGaitaWithSpear_40
+  - first:
+      213: 2473665518021094594
+    second: AnaGaitaWithSpear_41
+  - first:
+      213: -1899863448416739674
+    second: AnaGaitaWithSpear_42
+  - first:
+      213: 3002833856359302572
+    second: AnaGaitaWithSpear_43
+  - first:
+      213: -2945311971466574225
+    second: AnaGaitaWithSpear_44
+  - first:
+      213: -3016187565976027064
+    second: AnaGaitaWithSpear_45
+  - first:
+      213: 3116792310220791196
+    second: AnaGaitaWithSpear_46
+  - first:
+      213: 3037286439643085476
+    second: AnaGaitaWithSpear_47
+  - first:
+      213: 2906586797071889053
+    second: AnaGaitaWithSpear_48
+  - first:
+      213: -3477397606025692685
+    second: AnaGaitaWithSpear_49
+  - first:
+      213: -7060293059302518653
+    second: AnaGaitaWithSpear_50
+  - first:
+      213: -4180360749645027230
+    second: AnaGaitaWithSpear_51
+  - first:
+      213: 3724756357345710581
+    second: AnaGaitaWithSpear_52
+  - first:
+      213: 4620396856473986910
+    second: AnaGaitaWithSpear_53
+  - first:
+      213: -6426265165313162629
+    second: AnaGaitaWithSpear_54
+  - first:
+      213: -5558385517826801965
+    second: AnaGaitaWithSpear_55
+  - first:
+      213: -9175111486796952730
+    second: AnaGaitaWithSpear_56
+  - first:
+      213: 3753115077786630258
+    second: AnaGaitaWithSpear_57
+  - first:
+      213: -3675878389830330865
+    second: AnaGaitaWithSpear_58
+  - first:
+      213: 1205275167362275467
+    second: AnaGaitaWithSpear_59
+  - first:
+      213: 1653382429634224252
+    second: AnaGaitaWithSpear_60
+  - first:
+      213: -6250953728846454794
+    second: AnaGaitaWithSpear_61
+  - first:
+      213: -5512705510576209292
+    second: AnaGaitaWithSpear_62
+  - first:
+      213: -6665085638017525142
+    second: AnaGaitaWithSpear_63
+  - first:
+      213: 3046630901452577879
+    second: AnaGaitaWithSpear_64
+  - first:
+      213: -7723089730979139111
+    second: AnaGaitaWithSpear_65
+  - first:
+      213: 7349906425039279583
+    second: AnaGaitaWithSpear_66
+  - first:
+      213: 5554662113224691676
+    second: AnaGaitaWithSpear_67
+  - first:
+      213: -5709145396478750921
+    second: AnaGaitaWithSpear_68
+  - first:
+      213: -3616021967362080744
+    second: AnaGaitaWithSpear_69
+  - first:
+      213: 102022897817853348
+    second: AnaGaitaWithSpear_70
+  - first:
+      213: 3945470238226324227
+    second: AnaGaitaWithSpear_71
+  - first:
+      213: 4638006989934742989
+    second: AnaGaitaWithSpear_72
+  - first:
+      213: 4027653564254979072
+    second: AnaGaitaWithSpear_73
+  - first:
+      213: -5146419899877811571
+    second: AnaGaitaWithSpear_74
+  - first:
+      213: 2452690409772005329
+    second: AnaGaitaWithSpear_75
+  - first:
+      213: 6572899725601465121
+    second: AnaGaitaWithSpear_76
+  - first:
+      213: -3635485270517307929
+    second: AnaGaitaWithSpear_77
+  - first:
+      213: -6832740973155463156
+    second: AnaGaitaWithSpear_78
+  - first:
+      213: -5168446866882576791
+    second: AnaGaitaWithSpear_79
+  - first:
+      213: 783116793421167725
+    second: AnaGaitaWithSpear_80
+  - first:
+      213: -2142067446891032093
+    second: AnaGaitaWithSpear_81
+  - first:
+      213: -5391537476449756894
+    second: AnaGaitaWithSpear_82
+  - first:
+      213: -2263627060145869164
+    second: AnaGaitaWithSpear_83
+  - first:
+      213: 5657979421233477362
+    second: AnaGaitaWithSpear_84
+  - first:
+      213: 3452734707889748587
+    second: AnaGaitaWithSpear_85
+  - first:
+      213: -453537468507928865
+    second: AnaGaitaWithSpear_86
+  - first:
+      213: 2556844244931752567
+    second: AnaGaitaWithSpear_87
+  - first:
+      213: 6877530808845670422
+    second: AnaGaitaWithSpear_88
+  - first:
+      213: -2524565934085314924
+    second: AnaGaitaWithSpear_89
+  - first:
+      213: -3206630309874648416
+    second: AnaGaitaWithSpear_90
+  - first:
+      213: -6134284631419484577
+    second: AnaGaitaWithSpear_91
+  - first:
+      213: -5470392386680292831
+    second: AnaGaitaWithSpear_92
+  - first:
+      213: 5992825474781268757
+    second: AnaGaitaWithSpear_93
+  - first:
+      213: 1711542711237725936
+    second: AnaGaitaWithSpear_94
+  - first:
+      213: 1201816768301823726
+    second: AnaGaitaWithSpear_95
+  - first:
+      213: 2856605051440853363
+    second: AnaGaitaWithSpear_96
+  - first:
+      213: 6650947251564249259
+    second: AnaGaitaWithSpear_97
+  - first:
+      213: 2431625695562562993
+    second: AnaGaitaWithSpear_98
+  - first:
+      213: 8944388388436641368
+    second: AnaGaitaWithSpear_99
+  - first:
+      213: 5562094039005822133
+    second: AnaGaitaWithSpear_100
+  - first:
+      213: -8912134624032726248
+    second: AnaGaitaWithSpear_101
+  - first:
+      213: -6008628009290706677
+    second: AnaGaitaWithSpear_102
+  - first:
+      213: 7039314318365358866
+    second: AnaGaitaWithSpear_103
+  - first:
+      213: 4927876808514680637
+    second: AnaGaitaWithSpear_104
+  - first:
+      213: 561605739549284695
+    second: AnaGaitaWithSpear_105
+  - first:
+      213: -793644738732769067
+    second: AnaGaitaWithSpear_106
+  - first:
+      213: 1316671387074703176
+    second: AnaGaitaWithSpear_107
+  - first:
+      213: 709724571342006817
+    second: AnaGaitaWithSpear_108
+  - first:
+      213: -6785768121224991331
+    second: AnaGaitaWithSpear_109
+  - first:
+      213: 5135523429784348173
+    second: AnaGaitaWithSpear_110
+  - first:
+      213: 49398958106016827
+    second: AnaGaitaWithSpear_111
+  - first:
+      213: 3506903035780914051
+    second: AnaGaitaWithSpear_112
+  - first:
+      213: 657984746807086537
+    second: AnaGaitaWithSpear_113
+  - first:
+      213: 4720612887440551748
+    second: AnaGaitaWithSpear_114
+  - first:
+      213: 3378646684546862664
+    second: AnaGaitaWithSpear_115
+  - first:
+      213: -103967886476919938
+    second: AnaGaitaWithSpear_116
+  - first:
+      213: -1954527430875256521
+    second: AnaGaitaWithSpear_117
+  - first:
+      213: 7170226563580319625
+    second: AnaGaitaWithSpear_118
+  - first:
+      213: 1833733873339310965
+    second: AnaGaitaWithSpear_119
+  - first:
+      213: 7559162798385281266
+    second: AnaGaitaWithSpear_120
+  - first:
+      213: -635394854661517708
+    second: AnaGaitaWithSpear_121
+  - first:
+      213: -2807575856570270770
+    second: AnaGaitaWithSpear_122
+  - first:
+      213: -5978721865463278232
+    second: AnaGaitaWithSpear_123
+  - first:
+      213: 5189755095651830959
+    second: AnaGaitaWithSpear_124
+  - first:
+      213: -993522431043124969
+    second: AnaGaitaWithSpear_125
+  - first:
+      213: -6238972883118540604
+    second: AnaGaitaWithSpear_126
+  - first:
+      213: 5731405681340235595
+    second: AnaGaitaWithSpear_127
+  - first:
+      213: -575056427506294047
+    second: AnaGaitaWithSpear_128
+  - first:
+      213: -2667613388329373429
+    second: AnaGaitaWithSpear_129
+  - first:
+      213: -5775134561942265080
+    second: AnaGaitaWithSpear_130
+  - first:
+      213: -524194966330471479
+    second: AnaGaitaWithSpear_131
+  - first:
+      213: -2454858897714693607
+    second: AnaGaitaWithSpear_132
+  - first:
+      213: -2360260040515650198
+    second: AnaGaitaWithSpear_133
+  - first:
+      213: 7661044895086681173
+    second: AnaGaitaWithSpear_134
+  - first:
+      213: 731281144709710860
+    second: AnaGaitaWithSpear_135
+  - first:
+      213: -7437842213010562215
+    second: AnaGaitaWithSpear_136
+  - first:
+      213: -6334693100047008459
+    second: AnaGaitaWithSpear_137
+  - first:
+      213: -1268047501839236433
+    second: AnaGaitaWithSpear_138
+  - first:
+      213: -3719393000572406643
+    second: AnaGaitaWithSpear_139
+  - first:
+      213: 3862433681650017188
+    second: AnaGaitaWithSpear_140
+  - first:
+      213: -8475291563342369238
+    second: AnaGaitaWithSpear_141
+  - first:
+      213: 2259672325572970795
+    second: AnaGaitaWithSpear_142
+  - first:
+      213: 8573314817656600547
+    second: AnaGaitaWithSpear_143
+  - first:
+      213: 5682785103379080732
+    second: AnaGaitaWithSpear_144
+  - first:
+      213: -6226063054854050929
+    second: AnaGaitaWithSpear_145
+  - first:
+      213: 6686412093459704356
+    second: AnaGaitaWithSpear_146
+  - first:
+      213: -7427294409902021827
+    second: AnaGaitaWithSpear_147
+  - first:
+      213: 150406251219102244
+    second: AnaGaitaWithSpear_148
+  - first:
+      213: 3384119182797627295
+    second: AnaGaitaWithSpear_149
+  - first:
+      213: 5195574229659280929
+    second: AnaGaitaWithSpear_150
+  - first:
+      213: 1689698529389022077
+    second: AnaGaitaWithSpear_151
+  - first:
+      213: -2628136825328752431
+    second: AnaGaitaWithSpear_152
+  - first:
+      213: 6382608869199122123
+    second: AnaGaitaWithSpear_153
+  - first:
+      213: 4291208451849605300
+    second: AnaGaitaWithSpear_154
+  - first:
+      213: -6430785619743047610
+    second: AnaGaitaWithSpear_155
+  - first:
+      213: -6501511758407896280
+    second: AnaGaitaWithSpear_156
+  - first:
+      213: 8122417706926555405
+    second: AnaGaitaWithSpear_157
+  - first:
+      213: 4580763484836915038
+    second: AnaGaitaWithSpear_158
+  - first:
+      213: -4965126080233201690
+    second: AnaGaitaWithSpear_159
+  - first:
+      213: -1417544326727736086
+    second: AnaGaitaWithSpear_160
+  - first:
+      213: 6863413803904228329
+    second: AnaGaitaWithSpear_161
+  - first:
+      213: -1283279355092372872
+    second: AnaGaitaWithSpear_162
+  - first:
+      213: 2292745733160480491
+    second: AnaGaitaWithSpear_163
+  - first:
+      213: 5839631635201028706
+    second: AnaGaitaWithSpear_164
+  - first:
+      213: -3749506851426457399
+    second: AnaGaitaWithSpear_165
+  - first:
+      213: 6919250823870528829
+    second: AnaGaitaWithSpear_166
+  - first:
+      213: 1676026393417004340
+    second: AnaGaitaWithSpear_167
+  - first:
+      213: -4494475177628076394
+    second: AnaGaitaWithSpear_168
+  - first:
+      213: 2205949001483699130
+    second: AnaGaitaWithSpear_169
+  - first:
+      213: -5349324446738066708
+    second: AnaGaitaWithSpear_170
+  - first:
+      213: 2211681148347850705
+    second: AnaGaitaWithSpear_171
+  - first:
+      213: -5114209743787165955
+    second: AnaGaitaWithSpear_172
+  - first:
+      213: -1254306178745174551
+    second: AnaGaitaWithSpear_173
+  - first:
+      213: 1136339061528250182
+    second: AnaGaitaWithSpear_174
+  - first:
+      213: 4937251903267188287
+    second: AnaGaitaWithSpear_175
+  - first:
+      213: 2155270866860087222
+    second: AnaGaitaWithSpear_176
+  - first:
+      213: 3925701215131844376
+    second: AnaGaitaWithSpear_177
+  - first:
+      213: 2600405770535449751
+    second: AnaGaitaWithSpear_178
+  - first:
+      213: -6763609236820734617
+    second: AnaGaitaWithSpear_179
+  - first:
+      213: 7556807778403749742
+    second: AnaGaitaWithSpear_180
+  - first:
+      213: -959926928083673112
+    second: AnaGaitaWithSpear_181
+  - first:
+      213: -7193376005996852505
+    second: AnaGaitaWithSpear_182
+  - first:
+      213: 8298263253532470702
+    second: AnaGaitaWithSpear_183
+  - first:
+      213: -971448823563332079
+    second: AnaGaitaWithSpear_184
+  - first:
+      213: 3911482759589287514
+    second: AnaGaitaWithSpear_185
+  - first:
+      213: 336402051279268721
+    second: AnaGaitaWithSpear_186
+  - first:
+      213: 8250836956492494025
+    second: AnaGaitaWithSpear_187
+  - first:
+      213: 5549697408978945160
+    second: AnaGaitaWithSpear_188
+  - first:
+      213: -5745838352373432561
+    second: AnaGaitaWithSpear_189
+  - first:
+      213: -1881622135948312426
+    second: AnaGaitaWithSpear_190
+  - first:
+      213: -1712275004169689023
+    second: AnaGaitaWithSpear_191
+  - first:
+      213: 5413823275593823506
+    second: AnaGaitaWithSpear_192
+  - first:
+      213: -1942093165473523796
+    second: AnaGaitaWithSpear_193
+  - first:
+      213: 8285951834537228724
+    second: AnaGaitaWithSpear_194
+  - first:
+      213: 9221317240141079488
+    second: AnaGaitaWithSpear_195
+  - first:
+      213: 7162270915068017761
+    second: AnaGaitaWithSpear_196
+  - first:
+      213: -4132365694805026365
+    second: AnaGaitaWithSpear_197
+  - first:
+      213: 6356358447006112706
+    second: AnaGaitaWithSpear_198
+  - first:
+      213: -8418810083826745071
+    second: AnaGaitaWithSpear_199
+  - first:
+      213: -3147768541821105679
+    second: AnaGaitaWithSpear_200
+  - first:
+      213: 1111602030027856144
+    second: AnaGaitaWithSpear_201
+  - first:
+      213: 4991594870017334674
+    second: AnaGaitaWithSpear_202
+  - first:
+      213: -3684445219768581770
+    second: AnaGaitaWithSpear_203
+  - first:
+      213: -6872664398402997912
+    second: AnaGaitaWithSpear_204
+  - first:
+      213: -3950104100022947342
+    second: AnaGaitaWithSpear_205
+  - first:
+      213: 8186667967903633627
+    second: AnaGaitaWithSpear_206
+  - first:
+      213: -4253670707928549649
+    second: AnaGaitaWithSpear_207
+  - first:
+      213: 3503371924460907331
+    second: AnaGaitaWithSpear_208
+  - first:
+      213: -5461202619260984881
+    second: AnaGaitaWithSpear_209
+  - first:
+      213: -3273978499125811017
+    second: AnaGaitaWithSpear_210
+  - first:
+      213: -1483857593353364525
+    second: AnaGaitaWithSpear_211
+  - first:
+      213: 7777976017773231376
+    second: AnaGaitaWithSpear_212
+  - first:
+      213: 6432521638527469803
+    second: AnaGaitaWithSpear_0
+  - first:
+      213: -4649035211595616711
+    second: AnaGaitaWithSpear_1
+  - first:
+      213: -8517337329420548161
+    second: AnaGaitaWithSpear_2
+  - first:
+      213: 6518845678601875107
+    second: AnaGaitaWithSpear_3
+  - first:
+      213: 6441752333102151406
+    second: AnaGaitaWithSpear_4
+  - first:
+      213: -6415113139005700275
+    second: AnaGaitaWithSpear_5
+  - first:
+      213: -4515384180918802360
+    second: AnaGaitaWithSpear_6
+  - first:
+      213: -5132920115741345387
+    second: AnaGaitaWithSpear_7
+  - first:
+      213: -2715729178673454158
+    second: AnaGaitaWithSpear_13
+  - first:
+      213: 3364113121525446064
+    second: AnaGaitaWithSpear_14
+  - first:
+      213: -7559011385232807974
+    second: AnaGaitaWithSpear_15
+  - first:
+      213: -7665419294911107906
+    second: AnaGaitaWithSpear_16
+  - first:
+      213: -3161764035655004301
+    second: AnaGaitaWithSpear_17
+  - first:
+      213: 7941561564145824786
+    second: AnaGaitaWithSpear_18
+  - first:
+      213: 8821452115765442529
+    second: AnaGaitaWithSpear_19
+  - first:
+      213: 6025028678352086512
+    second: AnaGaitaWithSpear_26
+  - first:
+      213: 7442700129756852203
+    second: AnaGaitaWithSpear_27
+  - first:
+      213: 5455194046630022542
+    second: AnaGaitaWithSpear_28
+  - first:
+      213: -875188652398191338
+    second: AnaGaitaWithSpear_29
+  - first:
+      213: -2898705165397049602
+    second: AnaGaitaWithSpear_30
+  - first:
+      213: -6840744601326740783
+    second: AnaGaitaWithSpear_31
+  - first:
+      213: 4385452742927436547
+    second: AnaGaitaWithSpear_32
+  - first:
+      213: -553918818394021354
+    second: AnaGaitaWithSpear_39
+  - first:
+      213: 7977629960205074212
+    second: AnaGaitaWithSpear_40
+  - first:
+      213: 3574281069619862734
+    second: AnaGaitaWithSpear_41
+  - first:
+      213: 1253240596253817580
+    second: AnaGaitaWithSpear_42
+  - first:
+      213: 452666783898398561
+    second: AnaGaitaWithSpear_43
+  - first:
+      213: 2530989531618680653
+    second: AnaGaitaWithSpear_44
+  - first:
+      213: -3020231958047489120
+    second: AnaGaitaWithSpear_45
+  - first:
+      213: -5961478855758286786
+    second: AnaGaitaWithSpear_47
+  - first:
+      213: 6986441116502253177
+    second: AnaGaitaWithSpear_48
+  - first:
+      213: -2823833443675798832
+    second: AnaGaitaWithSpear_49
+  - first:
+      213: 5708391040050615679
+    second: AnaGaitaWithSpear_50
+  - first:
+      213: -1451504047893571014
+    second: AnaGaitaWithSpear_51
+  - first:
+      213: 1151950066192074775
+    second: AnaGaitaWithSpear_52
+  - first:
+      213: 8673995639421899053
+    second: AnaGaitaWithSpear_53
+  - first:
+      213: 8226571362546422768
+    second: AnaGaitaWithSpear_54
+  - first:
+      213: 2444582094888862905
+    second: AnaGaitaWithSpear_55
+  - first:
+      213: 6784970759602560553
+    second: AnaGaitaWithSpear_56
+  - first:
+      213: 4656406288614688528
+    second: AnaGaitaWithSpear_57
+  - first:
+      213: -1204003011048233651
+    second: AnaGaitaWithSpear_58
+  - first:
+      213: -4924512157170544626
+    second: AnaGaitaWithSpear_59
+  - first:
+      213: 1140167812286692505
+    second: AnaGaitaWithSpear_60
+  - first:
+      213: 7543931195257847436
+    second: AnaGaitaWithSpear_61
+  - first:
+      213: 3876352560329268495
+    second: AnaGaitaWithSpear_62
+  - first:
+      213: -4949245918726300313
+    second: AnaGaitaWithSpear_63
+  - first:
+      213: 1276442419723740071
+    second: AnaGaitaWithSpear_64
+  - first:
+      213: 4114128985405371375
+    second: AnaGaitaWithSpear_65
+  - first:
+      213: 1568321165722350783
+    second: AnaGaitaWithSpear_66
+  - first:
+      213: -3113818228495658696
+    second: AnaGaitaWithSpear_67
+  - first:
+      213: -5912728669880059105
+    second: AnaGaitaWithSpear_68
+  - first:
+      213: -2540275889459493195
+    second: AnaGaitaWithSpear_69
+  - first:
+      213: 2267968423357890029
+    second: AnaGaitaWithSpear_70
+  - first:
+      213: 7113701397462689994
+    second: AnaGaitaWithSpear_76
+  - first:
+      213: -3016565276016233808
+    second: AnaGaitaWithSpear_77
+  - first:
+      213: -3845333845490028219
+    second: AnaGaitaWithSpear_78
+  - first:
+      213: 2239269328403381887
+    second: AnaGaitaWithSpear_79
+  - first:
+      213: 6913111761303073261
+    second: AnaGaitaWithSpear_80
+  - first:
+      213: 927281406287133932
+    second: AnaGaitaWithSpear_81
+  - first:
+      213: 1682954844246934088
+    second: AnaGaitaWithSpear_82
+  - first:
+      213: 5792221235309634812
+    second: AnaGaitaWithSpear_83
+  - first:
+      213: -3984996375131225622
+    second: AnaGaitaWithSpear_84
+  - first:
+      213: 6590870698385567407
+    second: AnaGaitaWithSpear_85
+  - first:
+      213: -3268797430846961642
+    second: AnaGaitaWithSpear_86
+  - first:
+      213: 6087539485155041939
+    second: AnaGaitaWithSpear_87
+  - first:
+      213: 8261584589527375365
+    second: AnaGaitaWithSpear_88
+  - first:
+      213: 4731294663405866795
+    second: AnaGaitaWithSpear_89
+  - first:
+      213: 3512914177617898745
+    second: AnaGaitaWithSpear_90
+  - first:
+      213: 6780982499494461891
+    second: AnaGaitaWithSpear_91
+  - first:
+      213: 7046284042392771926
+    second: AnaGaitaWithSpear_92
+  - first:
+      213: 5906312550682341375
+    second: AnaGaitaWithSpear_93
+  - first:
+      213: -9109502327488471052
+    second: AnaGaitaWithSpear_94
+  - first:
+      213: 5587916386935189020
+    second: AnaGaitaWithSpear_95
+  - first:
+      213: -3761263807311357991
+    second: AnaGaitaWithSpear_96
+  - first:
+      213: -2139329776065006842
+    second: AnaGaitaWithSpear_97
+  - first:
+      213: -5500688857352816597
+    second: AnaGaitaWithSpear_98
+  - first:
+      213: -8757459079596938560
+    second: AnaGaitaWithSpear_99
+  - first:
+      213: -4537690880827819872
+    second: AnaGaitaWithSpear_100
+  - first:
+      213: 2642825237274924527
+    second: AnaGaitaWithSpear_101
+  - first:
+      213: -4572973287752947002
+    second: AnaGaitaWithSpear_102
+  - first:
+      213: 2558191937364065791
+    second: AnaGaitaWithSpear_103
+  - first:
+      213: 5941518203655513641
+    second: AnaGaitaWithSpear_104
+  - first:
+      213: 5825113989365705258
+    second: AnaGaitaWithSpear_105
+  - first:
+      213: 2771330394300707066
+    second: AnaGaitaWithSpear_106
+  - first:
+      213: 6418490492358670708
+    second: AnaGaitaWithSpear_107
+  - first:
+      213: 1003806128543785429
+    second: AnaGaitaWithSpear_108
+  - first:
+      213: 8504576840619984773
+    second: AnaGaitaWithSpear_109
+  - first:
+      213: 310975700342791682
+    second: AnaGaitaWithSpear_110
+  - first:
+      213: -9011628200992514823
+    second: AnaGaitaWithSpear_111
+  - first:
+      213: 7473422759959010331
+    second: AnaGaitaWithSpear_112
+  - first:
+      213: 2096127431785724000
+    second: AnaGaitaWithSpear_113
+  - first:
+      213: 2974461096780810205
+    second: AnaGaitaWithSpear_114
+  - first:
+      213: -5761592958082157729
+    second: AnaGaitaWithSpear_115
+  - first:
+      213: -1021012365353408464
+    second: AnaGaitaWithSpear_116
+  - first:
+      213: -6559046592486619083
+    second: AnaGaitaWithSpear_117
+  - first:
+      213: 3594932089366080965
+    second: AnaGaitaWithSpear_118
+  - first:
+      213: -9137423935893266554
+    second: AnaGaitaWithSpear_119
+  - first:
+      213: -6815808440810575611
+    second: AnaGaitaWithSpear_124
+  - first:
+      213: 5732109462439754879
+    second: AnaGaitaWithSpear_125
+  - first:
+      213: -467481936206912116
+    second: AnaGaitaWithSpear_126
+  - first:
+      213: 2685835836195662355
+    second: AnaGaitaWithSpear_127
+  - first:
+      213: -6256660523058098168
+    second: AnaGaitaWithSpear_128
+  - first:
+      213: -2093245204504522338
+    second: AnaGaitaWithSpear_129
+  - first:
+      213: -3439571249924129599
+    second: AnaGaitaWithSpear_131
+  - first:
+      213: 9194602455717540099
+    second: AnaGaitaWithSpear_132
+  - first:
+      213: 4979604330548892748
+    second: AnaGaitaWithSpear_133
+  - first:
+      213: -6949263414030759695
+    second: AnaGaitaWithSpear_134
+  - first:
+      213: -812344403784930452
+    second: AnaGaitaWithSpear_135
+  - first:
+      213: 5361051198341610592
+    second: AnaGaitaWithSpear_136
+  - first:
+      213: 3788183776851216465
+    second: AnaGaitaWithSpear_139
+  - first:
+      213: 655603499072996352
+    second: AnaGaitaWithSpear_140
+  - first:
+      213: 8577860894885241279
+    second: AnaGaitaWithSpear_141
+  - first:
+      213: 8140809724628415744
+    second: AnaGaitaWithSpear_142
+  - first:
+      213: 8118567230429677751
+    second: AnaGaitaWithSpear_143
+  - first:
+      213: 1230530004183517059
+    second: AnaGaitaWithSpear_144
+  - first:
+      213: -5979963156549497432
+    second: AnaGaitaWithSpear_148
+  - first:
+      213: -4607024015805523041
+    second: AnaGaitaWithSpear_149
+  - first:
+      213: -868694728722897384
+    second: AnaGaitaWithSpear_150
+  - first:
+      213: 4943501050784562985
+    second: AnaGaitaWithSpear_151
+  - first:
+      213: -5470945957530314058
+    second: AnaGaitaWithSpear_152
+  - first:
+      213: 7887582339672088405
+    second: AnaGaitaWithSpear_153
+  - first:
+      213: -4586705773113638641
+    second: AnaGaitaWithSpear_155
+  - first:
+      213: -7998545718503520427
+    second: AnaGaitaWithSpear_156
+  - first:
+      213: 7670511872560053287
+    second: AnaGaitaWithSpear_157
+  - first:
+      213: 127113545305105955
+    second: AnaGaitaWithSpear_158
+  - first:
+      213: 7303300007999744068
+    second: AnaGaitaWithSpear_159
+  - first:
+      213: 4274232103114961488
+    second: AnaGaitaWithSpear_160
+  - first:
+      213: -7936518760670504095
+    second: AnaGaitaWithSpear_161
+  - first:
+      213: -8758260437177731377
+    second: AnaGaitaWithSpear_162
+  - first:
+      213: -240071924767118171
+    second: AnaGaitaWithSpear_163
+  - first:
+      213: 7836397754581604406
+    second: AnaGaitaWithSpear_164
+  - first:
+      213: -6491380524052016041
+    second: AnaGaitaWithSpear_165
+  - first:
+      213: -5037711570128309282
+    second: AnaGaitaWithSpear_166
+  - first:
+      213: 4781673394904843842
+    second: AnaGaitaWithSpear_167
+  - first:
+      213: -3173373839934234477
+    second: AnaGaitaWithSpear_168
+  - first:
+      213: 5053303407340482368
+    second: AnaGaitaWithSpear_169
+  - first:
+      213: -7858290620806558462
+    second: AnaGaitaWithSpear_170
+  - first:
+      213: 2074510934201516680
+    second: AnaGaitaWithSpear_171
+  - first:
+      213: -6410821486426094122
+    second: AnaGaitaWithSpear_172
+  - first:
+      213: -8162316134962238362
+    second: AnaGaitaWithSpear_173
+  - first:
+      213: -3925091213744747252
+    second: AnaGaitaWithSpear_174
+  - first:
+      213: -6623143982976473915
+    second: AnaGaitaWithSpear_175
+  - first:
+      213: -1859097688399688997
+    second: AnaGaitaWithSpear_176
+  - first:
+      213: 4814308204474922493
+    second: AnaGaitaWithSpear_177
+  - first:
+      213: -9048057203054889246
+    second: AnaGaitaWithSpear_178
+  - first:
+      213: -6266689431928420079
+    second: AnaGaitaWithSpear_179
+  - first:
+      213: -5626617489425988086
+    second: AnaGaitaWithSpear_180
+  - first:
+      213: -7804778808004874563
+    second: AnaGaitaWithSpear_181
+  - first:
+      213: 2216129480566978692
+    second: AnaGaitaWithSpear_182
+  - first:
+      213: -6549416987989895081
+    second: AnaGaitaWithSpear_183
+  - first:
+      213: -52835379675321320
+    second: AnaGaitaWithSpear_184
+  - first:
+      213: -4035020920676030277
+    second: AnaGaitaWithSpear_185
+  - first:
+      213: 1000294073153649492
+    second: AnaGaitaWithSpear_186
+  - first:
+      213: -5919648452858595486
+    second: AnaGaitaWithSpear_187
+  - first:
+      213: 1432846286942641046
+    second: AnaGaitaWithSpear_188
+  - first:
+      213: 5983187268230497023
+    second: AnaGaitaWithSpear_189
+  - first:
+      213: 3891651882817955522
+    second: AnaGaitaWithSpear_190
+  - first:
+      213: -128404425301512286
+    second: AnaGaitaWithSpear_191
+  - first:
+      213: 2954991613678235930
+    second: AnaGaitaWithSpear_192
+  - first:
+      213: -2889655556194027470
+    second: AnaGaitaWithSpear_193
+  - first:
+      213: 6128110794989285575
+    second: AnaGaitaWithSpear_194
+  - first:
+      213: -4995414330792539179
+    second: AnaGaitaWithSpear_195
+  - first:
+      213: 6832274495345101004
+    second: AnaGaitaWithSpear_196
+  - first:
+      213: 2080562194395079122
+    second: AnaGaitaWithSpear_197
+  - first:
+      213: -525339016292355164
+    second: AnaGaitaWithSpear_198
+  - first:
+      213: 2714699596414426181
+    second: AnaGaitaWithSpear_199
+  - first:
+      213: -639176393076860423
+    second: AnaGaitaWithSpear_200
+  - first:
+      213: 3654723300416757083
+    second: AnaGaitaWithSpear_201
+  - first:
+      213: -1562519091884032410
+    second: AnaGaitaWithSpear_202
+  - first:
+      213: 6764366351293817689
+    second: AnaGaitaWithSpear_203
+  - first:
+      213: -5320964306036829005
+    second: AnaGaitaWithSpear_204
+  - first:
+      213: 9010935239392073573
+    second: AnaGaitaWithSpear_205
+  - first:
+      213: 6534205175561713665
+    second: AnaGaitaWithSpear_206
+  - first:
+      213: 5942845192270359610
+    second: AnaGaitaWithSpear_207
+  - first:
+      213: 5912549819020856496
+    second: AnaGaitaWithSpear_208
+  - first:
+      213: 1789682508829537641
+    second: AnaGaitaWithSpear_209
+  - first:
+      213: -4458399555985481854
+    second: AnaGaitaWithSpear_210
+  - first:
+      213: 8111887355851284348
+    second: AnaGaitaWithSpear_211
+  - first:
+      213: -6011148310688758231
+    second: AnaGaitaWithSpear_212
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8817a6958e44950800000000000000
+      internalID: 6432521638527469803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e6f805b1f4b7fb0800000000000000
+      internalID: -4649035211595616711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7c6bf53d65cc980800000000000000
+      internalID: -8517337329420548161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aea7aa3b97977a50800000000000000
+      internalID: 6518845678601875107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6f899fd93b56950800000000000000
+      internalID: 6441752333102151406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47cf9bb690f8f6a0800000000000000
+      internalID: -6415113139005700275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848aaefc2022651c0800000000000000
+      internalID: -4515384180918802360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3610753bacf4ad0800000000000000
+      internalID: -2715729178673454158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b531c86f0bbfae20800000000000000
+      internalID: 3364113121525446064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7a01ac13ff81790800000000000000
+      internalID: -7559011385232807974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebce560b3c5fe9590800000000000000
+      internalID: -7665419294911107906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f8d2f7c582f14d0800000000000000
+      internalID: -3161764035655004301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214bec89a28163e60800000000000000
+      internalID: 7941561564145824786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7315316f71c6a70800000000000000
+      internalID: 8821452115765442529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5a7b639a33d9350800000000000000
+      internalID: 6025028678352086512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef29ebb558c94760800000000000000
+      internalID: 7442700129756852203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d4532251eb4bb40800000000000000
+      internalID: 5455194046630022542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d5a5ebe84bad3f0800000000000000
+      internalID: -875188652398191338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe3be3920bb5c7d0800000000000000
+      internalID: -2898705165397049602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da9fb6670bc011a0800000000000000
+      internalID: -6840744601326740783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bc379d8024cdc30800000000000000
+      internalID: 4385452742927436547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612683bf4c51058f0800000000000000
+      internalID: -553918818394021354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f79877e2c36be60800000000000000
+      internalID: 7977629960205074212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc581a02b56a9130800000000000000
+      internalID: 3574281069619862734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceabecdaea7646110800000000000000
+      internalID: 1253240596253817580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fe1e7aa02384600800000000000000
+      internalID: 452666783898398561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f1d5ab191ef1320800000000000000
+      internalID: 2530989531618680653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a30c49390bf516d0800000000000000
+      internalID: -3020231958047489120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d1169b712114b20800000000000000
+      internalID: 3116792310220791196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e307682e092944da0800000000000000
+      internalID: -5961478855758286786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97edc410e23d4f060800000000000000
+      internalID: 6986441116502253177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d206dcb17abfc8d0800000000000000
+      internalID: -2823833443675798832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f755d351867483f40800000000000000
+      internalID: 5708391040050615679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a134342c83bdbe0800000000000000
+      internalID: -1451504047893571014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718cd5e5b7c8cff00800000000000000
+      internalID: 1151950066192074775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_53
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d219707c319306870800000000000000
+      internalID: 8673995639421899053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_54
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f31bf76117aa2270800000000000000
+      internalID: 8226571362546422768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4812e9676ece120800000000000000
+      internalID: 2444582094888862905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ed58125fe092e50800000000000000
+      internalID: 6784970759602560553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01706ca49d0ee9040800000000000000
+      internalID: 4656406288614688528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4528f9f3a58a4fe0800000000000000
+      internalID: -1204003011048233651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00d1c3c84e98abb0800000000000000
+      internalID: -4924512157170544626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_60
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cbeab9590b2df00800000000000000
+      internalID: 1140167812286692505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_61
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ef45fd37d61b860800000000000000
+      internalID: 7543931195257847436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d1a96ad129bc530800000000000000
+      internalID: 3876352560329268495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d54442f0fb05bb0800000000000000
+      internalID: -4949245918726300313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3afdb2e95d6b110800000000000000
+      internalID: 1276442419723740071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3b93fb382581930800000000000000
+      internalID: 4114128985405371375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb47b987acbc3c510800000000000000
+      internalID: 1568321165722350783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8315163a1de79c4d0800000000000000
+      internalID: -3113818228495658696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bf78a0a94c1fda0800000000000000
+      internalID: -5912728669880059105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_69
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6074999802fbcd0800000000000000
+      internalID: -2540275889459493195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_70
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedbc0cc341797f10800000000000000
+      internalID: 2267968423357890029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8a6f12bb1f8b260800000000000000
+      internalID: 7113701397462689994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_77
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b236492dd10326d0800000000000000
+      internalID: -3016565276016233808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541b7c0bd31a2aac0800000000000000
+      internalID: -3845333845490028219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_79
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e39eb079b731f10800000000000000
+      internalID: 2239269328403381887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de17b09058e40ff50800000000000000
+      internalID: 6913111761303073261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_81
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecb19ca68d5edc00800000000000000
+      internalID: 927281406287133932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_82
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8428c50a38e0b5710800000000000000
+      internalID: 1682954844246934088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_83
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4ea17668a126050800000000000000
+      internalID: 5792221235309634812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1851509e272b8c0800000000000000
+      internalID: -3984996375131225622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae6dc1faf9777b50800000000000000
+      internalID: 6590870698385567407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61848a33e06e2a2d0800000000000000
+      internalID: -3268797430846961642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392a4d898e84b7450800000000000000
+      internalID: 6087539485155041939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ede94996b07a270800000000000000
+      internalID: 8261584589527375365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_89
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f020ccd6fe8a140800000000000000
+      internalID: 4731294663405866795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_90
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc295315d060c030800000000000000
+      internalID: 3512914177617898745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_91
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c10286f7a3ea1e50800000000000000
+      internalID: 6780982499494461891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_92
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d1355f00e69c160800000000000000
+      internalID: 7046284042392771926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff2adbc8ff67f150800000000000000
+      internalID: 5906312550682341375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff9479b5eb849180800000000000000
+      internalID: -9109502327488471052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_95
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e2bdd09544c8d40800000000000000
+      internalID: 5587916386935189020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d75caace7e4dcbc0800000000000000
+      internalID: -3761263807311357991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_97
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603ba3047e29f42e0800000000000000
+      internalID: -2139329776065006842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_98
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28398dc0a0a9a3b0800000000000000
+      internalID: -5500688857352816597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caea99bd51477680800000000000000
+      internalID: -8757459079596938560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_100
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a87ab38f22e601c0800000000000000
+      internalID: -4537690880827819872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_101
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5953f0d833da420800000000000000
+      internalID: 2642825237274924527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caa22006098980c0800000000000000
+      internalID: -4572973287752947002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd7add5306808320800000000000000
+      internalID: 2558191937364065791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9266763a353847250800000000000000
+      internalID: 5941518203655513641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a2d408f46f6d050800000000000000
+      internalID: 5825113989365705258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0798b7f4eb57620800000000000000
+      internalID: 2771330394300707066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479b24f981f031950800000000000000
+      internalID: 6418490492358670708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d166330b5c3eed00800000000000000
+      internalID: 1003806128543785429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_109
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5870b2ec393560670800000000000000
+      internalID: 8504576840619984773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_110
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ed5b870cec05400800000000000000
+      internalID: 310975700342791682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcd2f795e340f280800000000000000
+      internalID: -9011628200992514823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c1daf776ee6b760800000000000000
+      internalID: 7473422759959010331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0683a8f1bc0f61d10800000000000000
+      internalID: 2096127431785724000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_114
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7c6dfab98674920800000000000000
+      internalID: 2974461096780810205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_115
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53fe191bb5ba00b0800000000000000
+      internalID: -5761592958082157729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_116
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03824dbc9a2a4d1f0800000000000000
+      internalID: -1021012365353408464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_117
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538499d10e599f4a0800000000000000
+      internalID: -6559046592486619083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_118
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd615240b3c3e130800000000000000
+      internalID: 3594932089366080965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_119
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f1eeaa759513180800000000000000
+      internalID: -9137423935893266554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5096064b5526961a0800000000000000
+      internalID: -6815808440810575611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_125
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c7062af2b8c8f40800000000000000
+      internalID: 5732109462439754879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_126
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85a975e7ab2389f0800000000000000
+      internalID: -467481936206912116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_127
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ae47d7671064520800000000000000
+      internalID: 2685835836195662355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80099ea4760eb29a0800000000000000
+      internalID: -6256660523058098168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_129
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91d7b5b39c43f2e0800000000000000
+      internalID: -2093245204504522338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc30acfb203440d0800000000000000
+      internalID: -3439571249924129599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3017af7e73ac99f70800000000000000
+      internalID: 9194602455717540099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_133
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c441d5c61cb1b1540800000000000000
+      internalID: 4979604330548892748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f804146eb14f8f90800000000000000
+      internalID: -6949263414030759695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_135
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b6f199119f9b4f0800000000000000
+      internalID: -812344403784930452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_136
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c75db29a7466a40800000000000000
+      internalID: 5361051198341610592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1584d1b0315529430800000000000000
+      internalID: 3788183776851216465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_140
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004cfbba8eb291900800000000000000
+      internalID: 655603499072996352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_141
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb16954590faa0770800000000000000
+      internalID: 8577860894885241279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_142
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005b58c0057f9f070800000000000000
+      internalID: 8140809724628415744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_143
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b843eec1e1faa070800000000000000
+      internalID: 8118567230429677751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_144
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38781d8e488b31110800000000000000
+      internalID: 1230530004183517059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad81fb3137e20da0800000000000000
+      internalID: -5979963156549497432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_149
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bd73211109010c0800000000000000
+      internalID: -4607024015805523041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_150
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816a73c2fb6c1f3f0800000000000000
+      internalID: -868694728722897384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_151
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fb8ce8308da9440800000000000000
+      internalID: 4943501050784562985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6badb0053ab4314b0800000000000000
+      internalID: -5470945957530314058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_153
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f9cc40952567d60800000000000000
+      internalID: 7887582339672088405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f010458966fb850c0800000000000000
+      internalID: -4586705773113638641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_156
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55740e01c057ff090800000000000000
+      internalID: -7998545718503520427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_157
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cbb5178e1237a60800000000000000
+      internalID: 7670511872560053287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_158
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3262d02981993c100800000000000000
+      internalID: 127113545305105955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_159
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448aee8a9a88a5560800000000000000
+      internalID: 7303300007999744068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_160
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052fcb1b37f115b30800000000000000
+      internalID: 4274232103114961488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_161
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bd2059c32dbd190800000000000000
+      internalID: -7936518760670504095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_162
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6f9af1988647680800000000000000
+      internalID: -8758260437177731377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_163
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac26bb3bd71bacf0800000000000000
+      internalID: -240071924767118171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_164
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63851802d3a70cc60800000000000000
+      internalID: 7836397754581604406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_165
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7549df16ecbf9e5a0800000000000000
+      internalID: -6491380524052016041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_166
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed370a59404761ab0800000000000000
+      internalID: -5037711570128309282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_167
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2464d374e9aeb5240800000000000000
+      internalID: 4781673394904843842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390e33b4e49e5f3d0800000000000000
+      internalID: -3173373839934234477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_169
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fecc8eca0f02640800000000000000
+      internalID: 5053303407340482368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_170
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d8a0db05eb1f290800000000000000
+      internalID: -7858290620806558462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_171
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882ceb314b42acc10800000000000000
+      internalID: 2074510934201516680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_172
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d58127f2df2807a0800000000000000
+      internalID: -6410821486426094122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_173
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ce22798b0a9be80800000000000000
+      internalID: -8162316134962238362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_174
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dccbd46564789c0800000000000000
+      internalID: -3925091213744747252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_175
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4eb6e63add514a0800000000000000
+      internalID: -6623143982976473915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_176
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdacf2890882336e0800000000000000
+      internalID: -1859097688399688997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_177
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5f9fefdcbdfc240800000000000000
+      internalID: 4814308204474922493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_178
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6bf7899e7de6280800000000000000
+      internalID: -9048057203054889246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_179
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119463cf92f3809a0800000000000000
+      internalID: -6266689431928420079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_180
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0683c7543d3ae1b0800000000000000
+      internalID: -5626617489425988086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_181
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe6f5e860bdfa390800000000000000
+      internalID: -7804778808004874563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_182
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4883771650641ce10800000000000000
+      internalID: 2216129480566978692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_183
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75814f023fbcb15a0800000000000000
+      internalID: -6549416987989895081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_184
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c21ea808a444ff0800000000000000
+      internalID: -52835379675321320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_185
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8e5d1e9d9b008c0800000000000000
+      internalID: -4035020920676030277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_186
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b7045e822c1ed00800000000000000
+      internalID: 1000294073153649492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_187
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2673c24881f29dda0800000000000000
+      internalID: -5919648452858595486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_188
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b14fe3b1e72e310800000000000000
+      internalID: 1432846286942641046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_189
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2c483ce1d880350800000000000000
+      internalID: 5983187268230497023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_190
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c628d0c4cce10630800000000000000
+      internalID: 3891651882817955522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_191
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afa0520bd0d73ef0800000000000000
+      internalID: -128404425301512286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_192
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11bc87673d320920800000000000000
+      internalID: 2954991613678235930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_193
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23832d9e491e5e7d0800000000000000
+      internalID: -2889655556194027470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0b297cc4c6b0550800000000000000
+      internalID: 6128110794989285575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_195
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db073b0229bcaab0800000000000000
+      internalID: -4995414330792539179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8810f547d11de50800000000000000
+      internalID: 6832274495345101004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_197
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1a602ea44afdc10800000000000000
+      internalID: 2080562194395079122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_198
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3bd33b2fe95b8f0800000000000000
+      internalID: -525339016292355164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_199
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c9d2c56ec8ca520800000000000000
+      internalID: 2714699596414426181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_200
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f996ddf4703127f0800000000000000
+      internalID: -639176393076860423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_201
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d1fa96a7f28b230800000000000000
+      internalID: 3654723300416757083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_202
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e7c7d1a21d05ae0800000000000000
+      internalID: -1562519091884032410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_203
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953297b7b5bdfdd50800000000000000
+      internalID: 6764366351293817689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_204
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b45424c7232826b0800000000000000
+      internalID: -5320964306036829005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_205
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5679306bbd54d0d70800000000000000
+      internalID: 9010935239392073573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_206
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108ffdaccf82eaa50800000000000000
+      internalID: 6534205175561713665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ca960473a397250800000000000000
+      internalID: 5942845192270359610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_208
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcc98ffbb89d0250800000000000000
+      internalID: 5912549819020856496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_209
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965b38772ca36d810800000000000000
+      internalID: 1789682508829537641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_210
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fd9b6b9359022c0800000000000000
+      internalID: -4458399555985481854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_211
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f9f7f4296339070800000000000000
+      internalID: 8111887355851284348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_212
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9260539b57c149ca0800000000000000
+      internalID: -6011148310688758231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnaGaitaWithSpear_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10f1293f24368f80800000000000000
+      internalID: -8104733101979996130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
